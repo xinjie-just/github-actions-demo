@@ -2,7 +2,7 @@
   "name": "github-actions-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/xinjie-just/github-actions-demo",
+  "homepage": "https://xinjie-just.github.io/github-actions-demo",
   "dependencies": {
     "cra-template": "1.1.2",
     "react": "^17.0.2",
